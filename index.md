@@ -8,7 +8,6 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/AZ.jpg
 excerpt: A web journal of my personal and course-related projects.
-
 # feature_row:
 #   - image_path: /assets/images/mm-customizable-feature.png
 #     alt: "Projects"
@@ -18,4 +17,4 @@ excerpt: A web journal of my personal and course-related projects.
 #     btn_class: "btn--primary"
 #     btn_label: "Learn more"    
 ---
-Home Page TEST
+See the *Projects* page for my latests project updates or *About* for a summary of my background. You can also download a copy of my CV under *Resume*. Thank you for visiting my page!
