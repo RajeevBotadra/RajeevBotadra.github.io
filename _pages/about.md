@@ -6,7 +6,9 @@ permalink: /about/
 
 ## About Me
 
-Hello! I'm **Rajeev B. Botadra**, a Master's student in Electrical Engineering at the **University of Washington**. My interest circle around Embedded Software Engineering and Vision Systems for Robotics.
+Hello, I'm Rajeev - a Computer Engineering Master's student and Research Assistant at the University of Washington graduating in June 2025. I graduated with a B.S in Computer Engineering and Mathematics at the New Jersey Institute of Technology.
+
+My interests include Computer vision processing, Robotics, and Machine Learning systems.
 
 ### Education
 
@@ -23,7 +25,7 @@ This website serves as a journal of my recent projects, including my capstone pr
 In addition to my academic pursuits, I enjoy exploring topics related to **artificial intelligence**, **robotics**, and **environmental sustainability**.
 
 ### Get in Touch
-Feel free to connect with me through the links below or reach out via email:
+Feel free to send over an email or conenct with me on LinkedIn. 
 
 - [LinkedIn](https://www.linkedin.com/in/rajeev-botadra/)
 - [GitHub](https://github.com/RajeevBotadra)

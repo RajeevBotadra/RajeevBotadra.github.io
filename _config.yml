@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Rajeev B. Botadra"
+title                    : "Project Logbook"
 title_separator          : "-"
-subtitle                 : "Project Logbook" # site tagline that appears below site title in masthead
+subtitle                 : "A portfolio of my recent projects" # site tagline that appears below site title in masthead
 name                     : "Rajeev B. Botadra"
-description              : "Logbook of my recent projects"
+description              : "A portfolio of my recent projects"
 url                      : "https://RajeevBotadra.github.io"
 baseurl                  : ""
 repository               : "RajeevBotadra/RajeevBotadra.github.io"
@@ -43,7 +43,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : #"light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -114,10 +114,10 @@ analytics:
 # Site Author
 author:
   name             : "Rajeev B. Botadra"
-  avatar           : "/assets/images/ProfilePicture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master's Student Studying Electrical Engineering at the University of Washington"
+  avatar           : "/assets/images/ProfilePictureB.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Enjoys building autonomous systems and huge trees"
   location         : "Seattle, WA"
-  email            :
+  email            : "rajeev.botadra@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -325,8 +325,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: # true
       share: false
       related: true
@@ -338,3 +338,15 @@ defaults:
       layout: single
       author_profile: true
 
+# header:
+
+
+# navigation:
+#   - title: "Home"
+#     url: "/"
+#   - title: "Projects"
+#     url: "/projects/"
+#   - title: "Blog"
+#     url: "/blog/"
+#   - title: "About"
+#     url: "/about/"
