@@ -4,6 +4,6 @@ title: "Resume"
 permalink: /resume/
 ---
 <h2>View the Document</h2>
-<iframe src="{{ '/assets/Resume/Resume_10011.pdf' | relative_url }}" width="150%" height="500px"></iframe>
+<iframe src="{{ '/assets/Resume/Resume.pdf' | relative_url }}" width="150%" height="500px"></iframe>
 
-<p><a href="{{ '/assets/Resume/Resume_10011.pdf' | relative_url }}" target="_blank">Download PDF</a></p>
+<p><a href="{{ '/assets/Resume/Resume.pdf' | relative_url }}" target="_blank">Download PDF</a></p>
