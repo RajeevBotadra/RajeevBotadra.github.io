@@ -13,8 +13,6 @@ permalink: /about/
 ### About Me
 Hello, I'm Rajeev - a Computer Engineering Master's student and Research Assistant at the University of Washington graduating in June 2025. I graduated with a B.S in Computer Engineering and Mathematics at the New Jersey Institute of Technology. My interests include Computer vision processing, Robotics, and Machine Learning systems.
 
-This site is very much under construction and I am adding information and materials to it in my free time. Feel free to reach out to me!
-
 ### Education
 I recieved a Dual B.S. in Computer Engineering and Mathematics from New Jersey Institute of Technology in 2023. 
 

@@ -17,4 +17,12 @@ excerpt: A web journal of my personal and course-related projects.
 #     btn_class: "btn--primary"
 #     btn_label: "Learn more"    
 ---
-See the *Projects* page for my latests project updates or *About* for a summary of my background. You can also download a copy of my CV under *Resume*. Thank you for visiting my page!
+<style>
+  body {
+    font-family: "Calibri", sans-serif;
+    font-size: 20px;
+  }
+</style>
+See the *Projects* page for my latests project updates or *About* for a summary of my background. You can also download a copy of my CV under *Resume*. 
+
+This site is very much under construction and I am adding information and materials to it in my free time. Feel free to reach out to me!
