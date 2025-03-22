@@ -25,9 +25,10 @@ base station, (2) Real-time assistance in active firefighting efforts by relayin
 personnel, (3) Coordinate estimation of heat spots during ongoing fires for Very-Large-Airtankers (VLATs)
 drops.
 
+![MaskRCNN Two-Shot Semantic Segmentation](/assets/images/posts/wildfire-response-drone/ECE417_MaskRCNN_A.PNG)
+
 The drone consists of a Pixhawk computer for flight control, an Nvidia Jetson Nano companion computer for real-time object detection, a Full-HD camera, telemetry sensors, a Lithium battery, a radio transmitter-receiver, and a propulsion system (including propellers, electronic speed circuits, motors). The Nano uses a fine-tuned
 Mask R-CNN model for real-time object detection and semantic segmentation from the camera feed. The
 model was tuned on manually annotated video data from drone flyovers of wildfires and detects smoke and
 fires (classifying them and creating bounding boxes around the region). The model achieves 95% accuracy in classifying fire and smoke and 87% accuracy in producing appropriate bounding boxes around the regions of interest (fire, smoke). The drone has been tested working in manual flight mode (with a remote-control) and pre-planned mode (follow pre-planned trajectories) with ongoing testing in autonomous mode (flight controlled by Jetson Nano according to camera, GPS, and accelerometer data).
 
-![MaskRCNN Two-Shot Semantic Segmentation](/assets/images/posts/wildfire-response-drone/ECE417_MaskRCNN_A.PNG)
