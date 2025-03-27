@@ -338,6 +338,13 @@ defaults:
       layout: single
       author_profile: true
 
+#Google analytics for site metrics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-S7TFCZ82BB"
+
+
 # header:
 
 
