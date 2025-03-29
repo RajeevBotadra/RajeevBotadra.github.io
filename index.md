@@ -9,13 +9,10 @@ header:
   overlay_image: /assets/images/RDR.jpg
 excerpt: Cataloging my recently completed projects
 # feature_row:
-#   - image_path: /assets/images/mm-customizable-feature.png
-#     alt: "Projects"
-#     title: "Projects"
-#     excerpt: "Posts diving into my recent projects."
-#     url: "/_projects"
-#     btn_class: "btn--primary"
-#     btn_label: "Learn more"    
+#   - image_path: /assets/images/posts/wildfire-response-drone/ECE414_Report_WILDFIRE.PNG
+#     alt: "Wildfire Response Drone Post"
+#     title: "Wildfire Response Drone Post"
+#     url: /projects/A-Wildfire-Response-Drone/
 ---
 <style>
   body {

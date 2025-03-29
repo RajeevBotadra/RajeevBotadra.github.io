@@ -4,7 +4,9 @@ title: "Wildfire Response Drone"
 date: 2024-09-22
 categories: projects
 excerpt: "Developing a UAV for wildfire surveillance."
-image: "/assets/images/posts/wildfire-response-drone/ECE414_Report_WILDFIRE.PNG"
+header:
+  overlay_image: "/assets/images/posts/wildfire-response-drone/ECE414_Report_WILDFIRE.PNG"
+  caption: "Wildfire in Maderna County, CA"
 ---
 <style>
   body {
@@ -12,8 +14,6 @@ image: "/assets/images/posts/wildfire-response-drone/ECE414_Report_WILDFIRE.PNG"
     font-size: 20px;
   }
 </style>
-
-![Wildfire in Maderna County, CA](/assets/images/posts/wildfire-response-drone/ECE414_Report_WILDFIRE.PNG)
 
 ### Abstract
 Wildfires have become a growing risk over recent years, endangering vast regions of wildlife and the health of

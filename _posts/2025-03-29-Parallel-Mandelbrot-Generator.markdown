@@ -5,7 +5,6 @@ date: 2025-03-29
 categories: projects
 excerpt: "Parallelizing the generation of the Mandelbrot set on an x86 CPU using OpenMP"
 ---
-# Parallelized Mandelbrot Set Generator with OpenMP
 
 <img src="/assets/images/posts/mandelbrot-generator/image.png" alt="Mandelbrot Image Black & White" width="300">
 <img src="/assets/images/posts/mandelbrot-generator/image-color.png" alt="Mandelbrot Image Color" width="300">
