@@ -4,6 +4,7 @@ title: "Wildfire Response Drone"
 date: 2024-09-22
 categories: projects
 excerpt: "Developing a UAV for wildfire surveillance."
+image: "/assets/images/posts/wildfire-response-drone/ECE414_Report_WILDFIRE.PNG"
 ---
 <style>
   body {
